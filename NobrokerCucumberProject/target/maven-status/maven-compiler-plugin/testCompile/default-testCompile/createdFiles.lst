@@ -1,0 +1,15 @@
+runner\Runner.class
+utilities\ReadCon.class
+pages\AddingFreePost.class
+stepdefinations\Stepdefinitions.class
+pages\Rent.class
+pages\PayRent.class
+pages\PaintingAndCleaning.class
+utilities\Screenshots.class
+pages\BuySearch.class
+pages\HomeLoan.class
+pages\Privacypolicy.class
+pages\Sellersplans.class
+pages\CommercialPage.class
+pages\PayWithCreditCardPage.class
+pages\SalesAgreement.class

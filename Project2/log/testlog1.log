@@ -1,0 +1,14 @@
+2022-06-05 11:25:35,188 [main] INFO Base - BuySearch execution is started
+2022-06-05 11:25:47,850 [main] INFO Base - navigated to Buy page
+2022-06-05 11:26:20,543 [main] INFO Base - click on Menu option
+2022-06-05 11:26:20,544 [main] INFO Base - Successfully navigated to page
+2022-06-05 11:26:27,218 [main] INFO Base - Searching Pg
+2022-06-05 11:26:46,547 [main] INFO Base - Search for rent
+2022-06-05 12:16:41,590 [main] INFO Base - Paying with credit card
+2022-06-05 18:23:25,206 [main] INFO Base - BuySearch execution is started
+2022-06-05 18:23:38,000 [main] INFO Base - navigated to Buy page
+2022-06-05 18:24:03,530 [main] INFO Base - click on Menu option
+2022-06-05 18:24:03,530 [main] INFO Base - Successfully navigated to page
+2022-06-05 18:24:09,425 [main] INFO Base - Searching Pg
+2022-06-05 18:24:26,488 [main] INFO Base - Search for rent
+2022-06-05 18:24:55,408 [main] INFO Base - Paying with credit card
